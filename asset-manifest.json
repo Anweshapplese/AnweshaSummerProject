@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/AnweshaSummerProject/static/css/main.bea6fce7.css",
-    "main.js": "/AnweshaSummerProject/static/js/main.2401ff75.js",
+    "main.js": "/AnweshaSummerProject/static/js/main.c09620ba.js",
     "static/js/453.1c29ee80.chunk.js": "/AnweshaSummerProject/static/js/453.1c29ee80.chunk.js",
     "static/media/stranger-img.png": "/AnweshaSummerProject/static/media/stranger-img.7b10c734eeabb81c7c17.png",
     "static/media/you-img.png": "/AnweshaSummerProject/static/media/you-img.4cd0c819c59b0c92e0b6.png",
@@ -15,11 +15,11 @@
     "static/media/netflix.png": "/AnweshaSummerProject/static/media/netflix.b39480d09d45609d9d6f.png",
     "index.html": "/AnweshaSummerProject/index.html",
     "main.bea6fce7.css.map": "/AnweshaSummerProject/static/css/main.bea6fce7.css.map",
-    "main.2401ff75.js.map": "/AnweshaSummerProject/static/js/main.2401ff75.js.map",
+    "main.c09620ba.js.map": "/AnweshaSummerProject/static/js/main.c09620ba.js.map",
     "453.1c29ee80.chunk.js.map": "/AnweshaSummerProject/static/js/453.1c29ee80.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bea6fce7.css",
-    "static/js/main.2401ff75.js"
+    "static/js/main.c09620ba.js"
   ]
 }
