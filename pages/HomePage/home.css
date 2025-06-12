@@ -1,0 +1,320 @@
+.hero-sec {
+    background-color: #000;
+    color: white;
+    height: 80vh;
+    padding-top: 3%;
+    padding-bottom: 2%;
+}
+
+.hero-sec .hero-title {
+    font-size: 3.6rem;
+    margin-bottom: 6%;
+    margin-top: 9%;
+
+}
+
+.hero-sec .hero-para {
+    font-size: 1.8rem;
+    margin-bottom: 4%;
+}
+
+.hero-sec .hero-btn {
+    background-color: rgba(229, 9, 20, 1);
+    color: white;
+    width: 274.33px;
+    height: 59.6px;
+    font-size: 1.7rem;
+    border: none;
+    margin-bottom: 7%;
+}
+
+.hero-sec .hero-video {
+    width: 70%;
+    position: absolute;
+    left: 14.5%;
+    top: 1%
+}
+
+/* stranger section css start */
+.stranger-sec {
+    background-image: url("../../Assets/stranger-bg.jpg");
+   background-position: center;
+    background-size: cover;
+    background-color: #000000;
+    color: white;
+    position: relative;
+
+}
+
+.stranger-sec .stranger-sec-LHS .thriller-para {
+    font-size: 1.3rem;
+    font-weight: 700;
+}
+
+.stranger-sec .stranger-sec-LHS h2 {
+    font-size: 2.5rem;
+    font-weight: 700;
+}
+
+.stranger-sec .stranger-sec-LHS .director-para {
+    font-size: 1.1rem;
+}
+
+.stranger-sec .stranger-sec-LHS .stranger-para {
+    color: #b3b2af;
+    font-size: 1.1rem;
+    margin-top: 2%;
+}
+
+.stranger-sec .stranger-sec-LHS .watch-btn {
+    background-color: #E50914;
+    color: white;
+    border: none;
+    padding: 2%;
+    width: 40%;
+    font-size: 1.2rem;
+    font-weight: 600;
+}
+
+.stranger-sec .stranger-sec-LHS .season-btn {
+    background-color: transparent;
+    color: white;
+    border: 1px solid;
+    padding: 2%;
+    width: 40%;
+    font-size: 1.2rem;
+    font-weight: 600;
+}
+
+.stranger-sec .stranger-sec-LHS h3 {
+    font-size: 2rem;
+    font-weight: 600;
+    margin-top: 7%;
+}
+
+/* stranger section css end */
+
+.download-bg {
+    background-color: #000;
+    color: white;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+
+.download-bg .icon-bg {
+    background-color: #E50914;
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.5rem;
+}
+
+.download-bg h3 {
+    font-size: 1.9rem;
+    margin-top: 5%;
+}
+
+.download-bg p {
+    font-size: 1.4rem;
+    margin-top: 3%;
+    color: #b3b2af;
+}
+
+.unlimited-sec-bg {
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0.491), rgba(0, 0, 0, 0.491)), url("../../Assets/unlimited-sec-bg-img.svg");
+    background-position: center;
+    background-size: cover;
+    color: white;
+    padding-top: 8%;
+    padding-bottom: 8%;
+}
+
+.unlimited-sec-bg h2 {
+    font-size: 2.6rem;
+
+}
+
+.unlimited-sec-bg p {
+    font-size: 2rem;
+    /* width: 80%;
+    margin-top: 2%;
+    color: #b3b2af;  */
+    font-weight: 600;
+
+}
+
+.unlimited-sec-bg .unlimited-btn {
+    background-color: #E50914;
+    color: white;
+    padding: 2%;
+    margin-top: 3%;
+    border: none;
+    border-radius: 5px;
+    font-size: 1.5rem;
+    width: 35%;
+}
+
+
+.table-sec-bg {
+    background-color: #000;
+}
+
+.table>:not(caption)>*>* {
+    background-color: #121212 !important;
+    color: white !important;
+   
+}
+
+.table-sec-bg .mobile {
+    background-color: #E50914;
+    border-radius: 10px;
+    padding: 2%;
+    width:150px;
+}
+.table-sec-bg .table td{
+    padding: 1.5%;
+}
+
+.table-sec-bg .Basic-btn {
+    background-color: #a6060e;
+    border-radius: 10px;
+    padding: 2%;
+    width: 150px;
+}
+.accodion-sec {
+    background-color: #000000;
+    color: white;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+
+.accodion-sec h2 {
+    font-size: 2.5rem;
+}
+
+.accodion-sec h3 {
+    font-size: 1.5rem;
+}
+
+.accodion-sec i {
+    font-size: 1.4rem;
+}
+
+.accodion-sec .accod {
+    background-color: #121212;
+    padding: 1% 2% 1% 2%;
+    border-radius: 10px;
+}
+
+@media screen and (min-width:600px) {
+    .hide-desktop {
+        display: none;
+    }
+}
+
+@media screen and (max-width: 600px) {
+
+    .hide-mobile {
+        display: none;
+    }
+
+    .hero-sec {
+        height: auto;
+        padding-top: 6%;
+        padding-bottom: 6%;
+    }
+
+    .hero-sec .hero-title {
+        font-size: 2rem;
+    }
+
+    .hero-sec .hero-para {
+        font-size: 1.2rem;
+    }
+
+    .hero-sec .hero-btn {
+        background-color: #E50914;
+        color: white;
+        border: none;
+        width: 60%;
+        padding: 2.2%;
+        font-size: 1.2rem;
+        margin-top: 2%;
+    }
+
+    .stranger-sec .stranger-sec-LHS .thriller-para {
+        font-size: 1.2rem;
+    }
+
+    .stranger-sec .stranger-sec-LHS h2 {
+        font-size: 2.3rem;
+    }
+
+    .stranger-sec .stranger-sec-LHS .director-para {
+        font-size: 0.9rem;
+    }
+
+    .stranger-sec .stranger-sec-LHS .stranger-para {
+        font-size: 1rem;
+        margin-top: 1%;
+    }
+
+    .stranger-sec .stranger-sec-LHS .watch-btn {
+        width: 45%;
+        font-size: 0.8rem;
+    }
+
+    .stranger-sec .stranger-sec-LHS .season-btn {
+        width: 45%;
+        font-size: 0.9rem;
+    }
+
+    .stranger-sec .stranger-sec-LHS h3 {
+        font-size: 1.5rem;
+        margin-top: 10%;
+    }
+
+    .hero-sec .hero-video {
+        width: 69%;
+        left: 14.81%;
+        top: 19%;
+    }
+
+    .unlimited-sec-bg h2 {
+        font-size: 2rem;
+    }
+
+    .unlimited-sec-bg p {
+        font-size: 1.2rem;
+    }
+
+    .unlimited-sec-bg button {
+        padding: 1.6%;
+        width: 50%;
+        font-size: 1.1rem;
+    }
+
+    .accodion-sec h2 {
+        font-size: 2rem;
+    }
+
+    .accodion-sec h3 {
+        font-size: 1rem;
+    }
+
+    .accodion-sec i {
+        font-size: 1rem;
+    }
+
+    .accodion-sec {
+        padding-top: 10%;
+        padding-bottom: 10%;
+    }
+
+    .accodion-sec .accod {
+        border-radius: 5px;
+    }
+}
