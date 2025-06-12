@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/AnweshaSummerProject/static/css/main.bea6fce7.css",
+    "main.js": "/AnweshaSummerProject/static/js/main.2401ff75.js",
+    "static/js/453.1c29ee80.chunk.js": "/AnweshaSummerProject/static/js/453.1c29ee80.chunk.js",
+    "static/media/stranger-img.png": "/AnweshaSummerProject/static/media/stranger-img.7b10c734eeabb81c7c17.png",
+    "static/media/you-img.png": "/AnweshaSummerProject/static/media/you-img.4cd0c819c59b0c92e0b6.png",
+    "static/media/strangerimg.png": "/AnweshaSummerProject/static/media/strangerimg.08e311e7a7cf00ced30f.png",
+    "static/media/hero-video.mp4": "/AnweshaSummerProject/static/media/hero-video.a4d8de7692cd7d346c39.mp4",
+    "static/media/unlimited-sec-bg-img.svg": "/AnweshaSummerProject/static/media/unlimited-sec-bg-img.5c0cf3c6f44a775a1fa8.svg",
+    "static/media/reason-why.png": "/AnweshaSummerProject/static/media/reason-why.94d660284ba11be7c5b9.png",
+    "static/media/game-of-thrones.jpg": "/AnweshaSummerProject/static/media/game-of-thrones.17ba89c35cb26edcb8e9.jpg",
+    "static/media/stranger-bg.jpg": "/AnweshaSummerProject/static/media/stranger-bg.aed719787e0fd14e339a.jpg",
+    "static/media/heroimage.png": "/AnweshaSummerProject/static/media/heroimage.22ba59c1f84ca27e98a5.png",
+    "static/media/netflix.png": "/AnweshaSummerProject/static/media/netflix.b39480d09d45609d9d6f.png",
+    "index.html": "/AnweshaSummerProject/index.html",
+    "main.bea6fce7.css.map": "/AnweshaSummerProject/static/css/main.bea6fce7.css.map",
+    "main.2401ff75.js.map": "/AnweshaSummerProject/static/js/main.2401ff75.js.map",
+    "453.1c29ee80.chunk.js.map": "/AnweshaSummerProject/static/js/453.1c29ee80.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bea6fce7.css",
+    "static/js/main.2401ff75.js"
+  ]
+}
